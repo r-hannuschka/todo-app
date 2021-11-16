@@ -1,0 +1,13 @@
+{
+  "items": [{
+    "label": "first todo",
+    "description": "description",
+    "done": false,
+    "position": -1
+  }, {
+    "label": "second todo",
+    "description": "this is the second todo",
+    "done": true,
+    "position": -1
+  }]
+}
